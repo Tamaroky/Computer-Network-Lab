@@ -1,8 +1,4 @@
-/** 
- * 
- * @author Jeremy
- *
- */
+
 public class BlockedRequest {
 	private String timeBlocked;
 	private HttpRequest blockedRequest;
